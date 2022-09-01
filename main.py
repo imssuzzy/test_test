@@ -1,2 +1,4 @@
 print("Hello world")
-name = input("name")
+
+def my_func():
+    pass
